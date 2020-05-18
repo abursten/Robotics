@@ -30,7 +30,7 @@ Software: Fusion Eagle
 <img src="Hardware archetecture .jpg">
 
 ### Code for Arduino 
-<a href="Arduino Code"> Here is the code that we used to program the Arduino 
+<a href="Arduino Code"> Here is the code that we used to program the Arduino </a>
 
 
 
