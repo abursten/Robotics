@@ -26,8 +26,11 @@ Software: Solidworks
 Software: Fusion Eagle 
 <img src="Electronics Schematic.PNG">
 
-### Hardware Archetecture
+### Hardware Architecture
 <img src="Hardware archetecture .jpg">
+
+### Software Architecture
+<img src="Software archetecture .jpg">
 
 ### Code for Arduino 
 <a href="Arduino Code"> Here is the code that we used to program the Arduino </a>
@@ -35,6 +38,8 @@ Software: Fusion Eagle
 ### Video of Robot 
 
 <img src="Jar sander.gif">
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
