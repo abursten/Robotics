@@ -30,7 +30,10 @@ Software: Fusion Eagle
 <img src="Hardware archetecture .jpg">
 
 ### Code for Arduino 
-Here is the code that we used to program the Arduino <a href="Arduino Code">
+<a href="Arduino Code"> Here is the code that we used to program the Arduino 
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
