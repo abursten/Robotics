@@ -1,7 +1,9 @@
 ## SMFG Final Project - Automated Sander
-
-### Author: Aaron Bursten & Brad Sisson
+<p>
+Author: Aaron Bursten & Brad Sisson
 --------------------------------------
+
+### Intro
 This Automated Sander is manufactured for TOKA Branding Co. The 
 Automated Sander will Automate a work cell that currently is manned by an employee at TOKA
 Branding Co. The current work cell task includes the finishing portion of the manufacturing process, the
