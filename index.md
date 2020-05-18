@@ -19,8 +19,12 @@ production speed and decrease employee fatigue.
 5. Single push button actuation
 ```
 ### CAD Model
+Software: Solidworks 
 <img src="Solidworks Capture.JPG">
 
+### Electrical Schematics 
+Software: Fusion Eagle 
+<img src="Electronics Schematic.PNG">
 
 ### Code for Arduino 
 
