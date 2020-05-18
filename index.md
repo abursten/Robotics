@@ -1,7 +1,7 @@
 ## Aaron Bursten SMFG Final Project - Automated Sander ##
 
-- Author: Aaron Bursten & Brad Sisson
-- Spring 2020, California State University of Chico.
+   Author: Aaron Bursten & Brad Sisson <p>
+   Spring 2020, California State University of Chico.
 
 This Automated Sander is manufactured for TOKA Branding Co. The 
 Automated Sander will Automate a work cell that currently is manned by an employee at TOKA
