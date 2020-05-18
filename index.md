@@ -1,9 +1,20 @@
-## Aaron Bursten SMFG Final Project 
-You can use the [editor on GitHub](https://github.com/abursten/new/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Aaron Bursten SMFG Final Project - Automated Sander
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Automated Sander is manufactured for TOKA Branding Co. The 
+Automated Sander will Automate a work cell that currently is manned by an employee at TOKA
+Branding Co. The current work cell task includes the finishing portion of the manufacturing process, the
+work is sanded by an employee before it moves to the next workstation. TOKA Branding believes that
+this could be easily automated and the current manpower used in this station could be utilized elsewhere
+more efficiently. The Automated Sanding Station will increase productivity because it will free up
+employee resources to work on other more important tasks. The Automated Sander will also increase
+production speed and decrease employee fatigue.
 
-### Markdown
+
+
+
+
+
+### Code for Arduino 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
