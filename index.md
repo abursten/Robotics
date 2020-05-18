@@ -11,13 +11,13 @@ production speed and decrease employee fatigue.
 
 
 ### Deliverables
-```markdown
+`markdown
 1.Cycle time of 60 seconds or less
 2.External IO Compatible for future expansion
 3.Efficiently switch between sanding of different size jars
 4.Easy/fast loading and automated unloading
 5.Single push button actuation
-
+'
 
 
 
