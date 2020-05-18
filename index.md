@@ -13,32 +13,32 @@ employee resources to work on other more important tasks. The Automated Sander w
 production speed and decrease employee fatigue.
 
 
-### Deliverables
-```
-1. Cycle time of 60 seconds or less
-2. External IO Compatible for future expansion
-3. Efficiently switch between sanding of different size jars
-4. Easy/fast loading and automated unloading
-5. Single push button actuation
-```
-### CAD Model
+<H3> Deliverables </H3>
+
+1. Cycle time of 60 seconds or less <p>
+2. External IO Compatible for future expansion <p>
+3. Efficiently switch between sanding of different size jars <p>
+4. Easy/fast loading and automated unloading <p>
+5. Single push button actuation <p>
+
+<H3> CAD Model </H3>
 Software: Solidworks 
 <img src="Solidworks Capture.JPG">
 
-### Electrical Schematics 
+<H3> Electrical Schematics </H3> 
 Software: Fusion Eagle 
 <img src="Electronics Schematic.PNG">
 
-### Hardware Architecture
+<H3> Hardware Architecture </H3>
 <img src="Hardware archetecture .jpg">
 
-### Software Architecture
+<H3> Software Architecture </H3>
 <img src="Software archetecture .jpg">
 
-### Code for Arduino 
+<H3> Code for Arduino </H3>
 <a href="Arduino Code"> Here is the code that we used to program the Arduino </a>
 
-### Video of Robot 
+<H3> Video of Robot </H3>
 
 <img src="Jar sander.gif">
 
