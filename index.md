@@ -10,6 +10,14 @@ employee resources to work on other more important tasks. The Automated Sander w
 production speed and decrease employee fatigue.
 
 
+### Deliverables
+```markdown
+1.Cycle time of 60 seconds or less
+2.External IO Compatible for future expansion
+3.Efficiently switch between sanding of different size jars
+4.Easy/fast loading and automated unloading
+5.Single push button actuation
+
 
 
 
@@ -18,7 +26,7 @@ production speed and decrease employee fatigue.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
