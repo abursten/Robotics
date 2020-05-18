@@ -1,7 +1,4 @@
-## Aaron Bursten SMFG Final Project - Automated Sander ##
-
-   Author: Aaron Bursten & Brad Sisson <p>
-   Spring 2020, California State University of Chico.
+## Aaron Bursten SMFG Final Project - Automated Sander
 
 This Automated Sander is manufactured for TOKA Branding Co. The 
 Automated Sander will Automate a work cell that currently is manned by an employee at TOKA
@@ -28,6 +25,9 @@ Software: Solidworks
 ### Electrical Schematics 
 Software: Fusion Eagle 
 <img src="Electronics Schematic.PNG">
+
+### Hardware Archetecture
+<img src="Hardware archetecture .jpg">
 
 ### Code for Arduino 
 
