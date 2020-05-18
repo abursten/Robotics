@@ -1,7 +1,6 @@
 ## SMFG Final Project - Automated Sander
 <p>
-Author: Aaron Bursten & Brad Sisson
---------------------------------------
+Authors: Aaron Bursten & Brad Sisson
 
 ### Intro
 This Automated Sander is manufactured for TOKA Branding Co. The 
