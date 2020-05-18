@@ -20,28 +20,27 @@ production speed and decrease employee fatigue.
 3. Efficiently switch between sanding of different size jars <p>
 4. Easy/fast loading and automated unloading <p>
 5. Single push button actuation <p>
-
+<p>
 <H3> CAD Model </H3>
 Software: Solidworks 
 <img src="Solidworks Capture.JPG">
-
+<p>
 <H3> Electrical Schematics </H3> 
 Software: Fusion Eagle 
 <img src="Electronics Schematic.PNG">
-
+<p>
 <H3> Hardware Architecture </H3>
 <img src="Hardware archetecture .jpg">
-
+<p>
 <H3> Software Architecture </H3>
 <img src="Software archetecture .jpg">
-
+<p>
 <H3> Code for Arduino </H3>
 <a href="Arduino Code"> Here is the code that we used to program the Arduino </a>
-
+<p>
 <H3> Video of Robot </H3>
-
 <img src="Jar sander.gif">
-
+<p>
 <H3> Simulation of Robot </H3>
 <img src="simulation.gif">
 
