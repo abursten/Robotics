@@ -42,4 +42,8 @@ Software: Fusion Eagle
 
 <img src="Jar sander.gif">
 
+<H3> Simulation of Robot </H3>
+<img src="simulation.gif">
+
+
 
