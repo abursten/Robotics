@@ -32,7 +32,9 @@ Software: Fusion Eagle
 ### Code for Arduino 
 <a href="Arduino Code"> Here is the code that we used to program the Arduino </a>
 
+### Video of Robot 
 
+<img src="Jar sander.gif">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
