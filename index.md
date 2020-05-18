@@ -19,7 +19,7 @@ production speed and decrease employee fatigue.
 5. Single push button actuation
 ```
 ### CAD Model
-
+<img src="Solidworks Capture.JPG">
 
 
 ### Code for Arduino 
